@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Shihabul Islam 👋
 
-<!--
-**Kokushibu74/Kokushibu74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer · UI/UX Designer · Programmer · AI Enthusiast
+📍 Bangladesh
 
-Here are some ideas to get you started:
+I enjoy building practical tools, web experiences, and AI-powered assistants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+- "MEMO — WhatsApp AI Assistant" (https://github.com/Kokushibu74/MEMO)
+- "Media Studio" (https://github.com/Kokushibu74/media-studio)
+- "Lo-Fi World Automation" (https://github.com/Kokushibu74/lo-fi-world-automation)
+- "YouTube Agent Skill" (https://github.com/Kokushibu74/youtube-agent-skill)
+
+🧰 Interests & Tools
+
+- Web Development and Responsive UI
+- JavaScript, HTML, CSS, and React
+- AI Assistants and Automation
+- Android and Termux Tools
+- UI/UX Design
+
+📫 Contact
+
+- Email: "mdshihab74@gmail.com" (mailto:mdshihab74@gmail.com)
+- YouTube: "Lo-Fi World" (https://www.youtube.com/@Lo-Fi_World-x3w)
+- Portfolio: "kokushibu74.github.io" (https://kokushibu74.github.io/)
+
+---
+
+Always learning, building, and improving one project at a time.
